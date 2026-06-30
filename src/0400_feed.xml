@@ -1122,6 +1122,8 @@
       <enclosure url="https://junctionnow-audio.sfo3.digitaloceanspaces.com/2026/06-30-26/04/Sheriff%20Dispatch/20260630_040055_State-of-Colorado-DTRS_Mesa_T-Control__TO_8432_FROM_299775.mp3" length="3061" type="audio/mpeg" />
     </item>
     <item>
+      <description>Scanner audio clip.</description>
+      <itunes:duration>00:00:02</itunes:duration>
       <title>20260630_040053_State-of-Colorado-DTRS_Mesa_T-Control__TO_8432_FROM_275376.mp3</title>
       <guid isPermaLink="false">20260630_040053_State-of-Colorado-DTRS_Mesa_T-Control__TO_8432_FROM_275376.mp3</guid>
       <pubDate>Tue, 30 Jun 2026 10:01:04 +0000</pubDate>
